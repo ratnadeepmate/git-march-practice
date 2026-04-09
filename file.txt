@@ -2,3 +2,4 @@ line1 in remote main
 line2 in remote main
 line3 in remote main
 line1 in remote feature
+line2 in remote feature
