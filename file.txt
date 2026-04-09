@@ -5,3 +5,4 @@ line4 in remote feature
 line5 in remote feature
 line6 in remote feature
 line7 in remote feature
+line8 in local feature
